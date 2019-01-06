@@ -1,0 +1,285 @@
+{
+  "redlist": {
+    "num_act": 2,
+    "amount_mon": 2.0,
+    "cost_mon": 10.0,
+    "balance": 5.0,
+    "title": [
+      {
+        "id": "活动ID",
+        "name": "活动名称",
+        "type": "活动类型",
+        "time": "创建时间",
+        "tie": "码段绑定",
+        "award_total": "领取奖励/领取总量",
+        "status": "活动状态",
+        "control": "活动控制",
+        "note": "备注",
+        "operation": "操作"
+      }
+    ],
+    "red_list": [
+      {
+        "id": 0,
+        "name": "1",
+        "type": "2",
+        "time": "3",
+        "tie": "4",
+        "award_total": "5",
+        "status": "6",
+        "control": "7",
+        "note": "8"
+      },
+      {
+        "id": 1,
+        "name": "1",
+        "type": "2",
+        "time": "3",
+        "tie": "4",
+        "award_total": "5",
+        "status": "6",
+        "control": "7",
+        "note": "8"
+      },
+      {
+        "id": 3,
+        "name": "1",
+        "type": "2",
+        "time": "3",
+        "tie": "4",
+        "award_total": "5",
+        "status": "6",
+        "control": "7",
+        "note": "8"
+      },
+      {
+        "id": 3,
+        "name": "1",
+        "type": "2",
+        "time": "3",
+        "tie": "4",
+        "award_total": "5",
+        "status": "6",
+        "control": "7",
+        "note": "8"
+      }
+    ]
+  },
+  "userlist": {
+    "title": [
+      {
+        "id": "用户ID",
+        "name": "用户昵称",
+        "numcode": "扫码量 （个）",
+        "cashred": "现金红包（元）",
+        "lasttime": "最后扫码时间",
+        "operation": "操作"
+      }
+    ],
+    "users": [
+      {
+        "id": "12345",
+        "name": {
+          "name": "爆米花",
+          "icon": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+        },
+        "numcode": "1",
+        "cashred": "2.8",
+        "lasttime": "2018-01-21 16:05:52",
+        "operation": "详情",
+        "codereport": {
+          "title": {
+            "time": "时间",
+            "num": "码号",
+            "content": "扫码内容",
+            "name": "活动名称",
+            "lasttime": "最后扫码时间",
+            "awardcontent": "奖励内容"
+          },
+          "content": [
+            {
+              "time": "2018-01-21 16:05:52",
+              "num": "85653106",
+              "content": "85653106 - 85653106",
+              "name": "微红包",
+              "lasttime": "30612 测试红包",
+              "awardcontent": "1.0元"
+            }
+          ]
+        }
+      },
+      {
+        "id": "12345",
+        "name": {
+          "name": "爆米花",
+          "icon": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+        },
+        "numcode": "1",
+        "cashred": "2.8",
+        "lasttime": "2018-01-21 16:05:52",
+        "operation": "详情",
+        "codereport": {
+          "title": {
+            "time": "时间",
+            "num": "码号",
+            "content": "扫码内容",
+            "name": "活动名称",
+            "lasttime": "最后扫码时间",
+            "awardcontent": "奖励内容"
+          },
+          "content": {
+            "time": "2018-01-21 16:05:52",
+            "num": "85653106",
+            "content": "85653106 - 85653106",
+            "name": "微红包",
+            "lasttime": "30612 测试红包",
+            "awardcontent": "1.0元"
+          }
+        }
+      },
+      {
+        "id": "12345",
+        "name": {
+          "name": "爆米花",
+          "icon": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+        },
+        "numcode": "1",
+        "cashred": "2.8",
+        "lasttime": "2018-01-21 16:05:52",
+        "operation": "详情",
+        "codereport": {
+          "title": {
+            "time": "时间",
+            "num": "码号",
+            "content": "扫码内容",
+            "name": "活动名称",
+            "lasttime": "最后扫码时间",
+            "awardcontent": "奖励内容"
+          },
+          "content": {
+            "time": "2018-01-21 16:05:52",
+            "num": "85653106",
+            "content": "85653106 - 85653106",
+            "name": "微红包",
+            "lasttime": "30612 测试红包",
+            "awardcontent": "1.0元"
+          }
+        }
+      }
+    ]
+  },
+  "sweepcodedata": {
+    "main_data": [
+      {
+        "name": "扫码量",
+        "yesterday": 3,
+        "today": 3,
+        "week": 3,
+        "lastweek": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        },
+        "lastmonth": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        }
+      },
+      {
+        "name": "广告分享量",
+        "yesterday": 3,
+        "today": 3,
+        "week": 3,
+        "lastweek": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        },
+        "lastmonth": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        }
+      },
+      {
+        "name": "朋友圈分点击量",
+        "yesterday": 3,
+        "today": 3,
+        "week": 3,
+        "lastweek": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        },
+        "lastmonth": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        }
+      },
+      {
+        "name": "小程序访问量",
+        "yesterday": 3,
+        "today": 3,
+        "week": 3,
+        "lastweek": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        },
+        "lastmonth": {
+          "mon": 10,
+          "tue": 20,
+          "wen": 30,
+          "thu": 40,
+          "fri": 50,
+          "sat": 60,
+          "sun": 70
+        }
+      }
+    ],
+    "cashdata": [
+      {
+        "content": 17,
+        "name": "投放现金额"
+      },
+      {
+        "content": 10,
+        "name": "已发现金额"
+      },
+      {
+        "content": 3,
+        "name": "已发现金红包"
+      }
+    ]
+  }
+}

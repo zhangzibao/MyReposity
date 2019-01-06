@@ -1,0 +1,80 @@
+{
+  "@platforms": [
+    "android",
+    "iPhone",
+    "iPad"
+  ],
+  "id": "jTNao6MVf59QWijNx5mSC5",
+  "name": "滑小稽",
+  "version": {
+    "name": "1.0",
+    "code": ""
+  },
+  "description": "",
+  "icons": {
+    "72": "icon.png"
+  },
+  "launch_path": "index.html",
+  "developer": {
+    "name": "1078763967@qq.com",
+    "email": "1078763967@qq.com",
+    "url": ""
+  },
+  "permissions": {
+    "Messaging": {
+      "description": "短彩邮件插件"
+    },
+    "Cache": {
+      "description": "管理应用缓存"
+    },
+    "Console": {
+      "description": "跟踪调试输出日志"
+    },
+    "Contacts": {
+      "description": "访问系统联系人信息"
+    },
+    "NativeObj": {
+      "description": "原生控件"
+    },
+    "NativeUI": {
+      "description": "原生UI控件"
+    },
+    "Navigator": {
+      "description": "浏览器信息"
+    },
+    "Events": {
+      "description": "应用扩展事件"
+    },
+    "Maps": {
+      "description": "管理地图插件"
+    },
+    "Speech": {
+      "description": "管理语音识别插件"
+    },
+    "Push":{
+      "description": "管理推送消息插件"
+    }
+  },
+  "plus": {
+    "splashscreen": {
+      "autoclose": true,
+      "waiting": false,
+      "delay": "1000"
+    },
+    "popGesture": "close",
+    "runmode": "normal",
+    "signature": "Sk9JTiBVUyBtYWlsdG86aHIyMDEzQGRjbG91ZC5pbw==",
+    "adid": "126015120706",
+    "distribute":{
+      "plugins":{
+        "push": {
+          "igexin": {
+            "appid": "jTNao6MVf59QWijNx5mSC5",
+            "appkey": "QYSRkb8a4H9QgTrxq2GHM8",
+            "appsecret": "HaQrNNEfN380gGdcjO5R75"
+          }
+        }
+      }
+    }
+  }
+}
